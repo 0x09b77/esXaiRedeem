@@ -9,7 +9,7 @@ import schedule
 
 w3: Web3
 token_contract: Contract
-account_address: str # = Web3.to_checksum_address('0xdb58d9bb95ae6878078e6451efd3ae4a2f6d1e15')
+account_address: str
 account_private_key: str
 redeemption_time: int
 
